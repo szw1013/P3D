@@ -1,3 +1,0 @@
-echo "# P3D" >> README.md
-git init# g++ -o imageCreator main.cpp
-# ./imageCreator > image.ppm
